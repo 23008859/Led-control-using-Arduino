@@ -72,4 +72,4 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/b412fb20-588f-4a00-8321-6df636381bde)
 
 ## RESULT
-Thus,design and implement a system for LED control using an Arduino microcontroller and a push button.
+Thus, Designed and Implementmented a system for LED control using an Arduino microcontroller and a push button.
