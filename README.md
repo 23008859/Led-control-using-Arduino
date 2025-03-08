@@ -1,7 +1,6 @@
-## NAME:ROSHINI S
-## REGISTER NO: 212223230174
-
-## EX: 01 Led control using Arduino
+# Name: Roshini S
+# Register no: 212223230174
+## EXP NO: 01 LED CONTROL USING ARDUNIO
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -64,8 +63,7 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/095efd80-f51f-4746-afb8-1aed7e87321f)
 
 ## PROGRAM
-    ![image](https://github.com/user-attachments/assets/12ead96f-3515-4aae-bf69-b69caec8f5a8)
-
+![image](https://github.com/user-attachments/assets/cf746b3c-a493-47e0-a6d1-0c790f00ccbd)
 
 ## OUTPUT
 ## PUSH BUTTON OFF:
